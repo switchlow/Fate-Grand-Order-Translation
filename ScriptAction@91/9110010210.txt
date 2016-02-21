@@ -11,17 +11,17 @@
 [charaFadein D 0]
 [fadein black 1]
 [wait fade]
-＠アルトリア
-……ふむ。[r]このあたりなら良し、ですね。
+＠Arturia
+……um.[r]seems good about here.
 [k]
 
-＠アルトリア
-あたりに人影はなく、建造物もない。[r]今から何が起きようと人的被害は出そうにない。
+＠Arturia
+no people nearby,there is no building.[r]Even now what happened there will not be life-threatening.
 [k]
 
 [charaFace D 0]
-＠アルトリア
-[line 3]当事者になる我々以外には。
+＠Arturia
+[line 3]Become parties, in addition to our outside.
 [k]
 
 [charaFadeout D 0]
@@ -29,27 +29,27 @@
 [charaFadein D 0.1 0]
 [charaFace A 12]
 [charaFadein A 0.1 2]
-＠マシュ
-……あの、先輩……アルトリアさんの発言が[r]不穏すぎるのですが、今回は何を……？
+＠Mashu
+……escuse me ,senior……Arturiaのspeech was[r]unstable、what going on this time……？
 [k]
 
-？1：自分もわからない……
+？1：i had no idea……
 
-？2：とつぜん連れてこられて……
+？2：Suddenly brought over here……
 
 ？！
 
 [charaFace D 1]
-＠アルトリア
-さて。まずはありがとうございます、マスター。[r]今回も私の我が儘を聞いていただいて。
+＠Arturia
+So now,first thankyou master.[r]Even this time listen to my selfish speech。
 [k]
 
 [charaFadeout A 0]
 [charaFadeout D 0]
 [communicationChara 98003003 1 5 0 4]
 [wt 0.3]
-＠Dr.ロマン
-突然、人気のない荒野に行こう、だもんなあ。[r][%1][&君:ちゃん]に何の用なんだい？
+＠Dr.Roman
+Suddently、goes to the deserted wasteland.[r][%1][&君:ちゃん]for what？
 [k]
 
 [communicationCharaClear]
@@ -59,11 +59,11 @@
 [charaFadein A 0.1 2]
 [charaFace D 0]
 [charaFadein D 0.1 0]
-＠アルトリア
-はい。前々から考えていた事を実行しようかと。
+＠Aturia
+Yes.going to do that had been thinking for a long time。
 [k]
 
-＠アルトリア
+＠Aturia
 カルデアに力を貸す英霊は増えましたが、[r]それに比例して戦いは激しさを増すばかり。
 [k]
 
