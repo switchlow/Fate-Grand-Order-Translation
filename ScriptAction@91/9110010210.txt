@@ -64,27 +64,27 @@ Yes.going to do that had been thinking for a long time。
 [k]
 
 ＠Aturia
-カルデアに力を貸す英霊は増えましたが、[r]それに比例して戦いは激しさを増すばかり。
+servants have gained strength continually from Chaldean but,[r]It also represents the war being intensity increase.
 [k]
 
-＠アルトリア
-この先もどんな怪物が現れたものか。[r]正直な話、火力不足を感じてはいませんか？
+＠Aturia
+in front there regardless what monster appear or else。[r]To be honestly 、don't feel any lack of power attack？
 [k]
 
 [charaFace A 0]
-＠マシュ
-それは……はい。防御が専門のわたしが言える事では[r]ありませんが、今までの火力では太刀打ちできないかと。
+＠Mashu
+About that……yes。i'm speciality defense should not be say but[r]、i think even until now the power attack was can't beat it.
 [k]
 
-＠アルトリア
-でしょう。[r]なので、私も本気をだそうかと。
+＠Aturia
+Right? [r]So、i also will seriously。
 [k]
 
 [charaFadeout D 0.1]
 [charaFadeout A 0.1]
 [communicationCharaLoop 98003003 1 5 0 2]
-＠Dr.ロマン
-ええ!?　君、今まで本気じゃなかったの!?
+＠Dr.Roman
+What!?　you mean even now was not completely seriousness ?!?
 [k]
 
 [communicationCharaClear]
@@ -94,29 +94,29 @@ Yes.going to do that had been thinking for a long time。
 [charaFadein A 0.1 2]
 [charaFace D 4]
 [charaFadein D 0.1 0]
-＠アルトリア
-本気ではありましたが、制限があったのです。
+＠Aturia
+it had been seriously、but it has limit。
 [k]
 
-＠アルトリア
-私の聖剣は、その、色々と[r]複雑な仕組みをしているものですから。
+＠Aturia
+Because my holy sword was a lot complicated mechanism [r]。
 [k]
 
 [charaFace D 0]
-＠アルトリア
-たとえば、心の善いものには振るってはならない。[r]たとえば、精霊には振るってはならない。
+＠Aturia
+For example、It should not be wielded to those kindness。[r]For example、It should not be wielded in the spirit.
 [k]
 
-＠アルトリア
-このような誓約が複数かけられていて、[r]誓約に反するとその分魔力放出が削られてしまう。
+＠Aturia
+Such this kind of contract was multiple appliying、[r]it will be reduced to release magic, when non-compliance with contract.
 [k]
 
 [charaFace A 0]
-＠マシュ
-ドレスコードのようなもの、でしょうか。
+＠Mashu
+Will the things such as dress code?
 [k]
 
-＠マシュ
+＠Mashu
 ではセイバーさんの聖剣は、[r]今まで１００パーセントで開放された事がない、と？
 [k]
 
