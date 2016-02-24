@@ -68,12 +68,12 @@ servants have gained strength continually from Chaldean but,[r]It also represent
 [k]
 
 ＠Aturia
-in front there regardless what monster appear or else。[r]To be honestly 、don't feel any lack of power attack？
+in front there regardless what monster appear or else。[r]To be honestly 、don't feel any lack of strengths？
 [k]
 
 [charaFace A 0]
 ＠Mashu
-About that……yes。i'm speciality defense should not be say but[r]、i think even until now the power attack was can't beat it.
+About that……yes。i'm speciality defense should not be say but[r]、i think even until now the strength was can't beat it.
 [k]
 
 ＠Aturia
@@ -99,7 +99,7 @@ it had been seriously、but it has limit。
 [k]
 
 ＠Aturia
-Because my holy sword was a lot complicated mechanism [r]。
+Because my sword was a lot complicated mechanism [r]。
 [k]
 
 [charaFace D 0]
@@ -117,32 +117,32 @@ Will the things such as dress code?
 [k]
 
 ＠Mashu
-ではセイバーさんの聖剣は、[r]今まで１００パーセントで開放された事がない、と？
+Then saber's sword was、[r]never 100 percent show up the full strength?
 [k]
 
-＠アルトリア
-はい。すべての誓約が開放された一撃は、[r]それこそ一度あるかないかでしょう。
+＠Aturia
+Yes. All of the contract has to release in one hit,[r]that why only once to show up 。
 [k]
 
-＠アルトリア
-この先もその機会があるかどうかは分かりませんが、[r]今は少しでも誓約は減らし、戦力を向上させたい。
-[k]
-
-[charaFace D 1]
-＠アルトリア
-その為に[%1]、[r]貴方にご足労願ったのです。
+＠Aturia
+Although this does not know in advance whether there is opportunity、[r]now hopefully even reduce a little contract, to improve some strength.
 [k]
 
 [charaFace D 1]
-＠アルトリア
-“共に戦う者は勇者でなければならない”[line 3][r]この誓約をクリアするために。
+＠Aturia
+For the purpose of[%1]、[r]i wish stay with you anywhere and troubleshooting.
+[k]
+
+[charaFace D 1]
+＠Aturia
+“Who must be brave to fight together with warrior”[line 3][r]In order to clear this conctract。
 [k]
 
 [charaFadeout D 0.1]
 [charaFadeout A 0.1]
 [communicationCharaLoop 98003003 1 5 0 3]
 ＠Dr.ロマン
-……えっと。[r]つまり、マスターが弱いと聖剣も本気を出せない？
+……Well.[r]That means、if master is weak, sword cannot utilizing full strength ？
 [k]
 
 [communicationCharaClear]
@@ -151,12 +151,12 @@ Will the things such as dress code?
 [charaFadein D 0.1 0]
 [charaFace A 0]
 [charaFadein A 0.1 2]
-＠アルトリア
-この場合は肉体面ではなく精神面の話ですね。[r]自分より強いものに立ち向かう勇気があるのか？
+＠Aturia
+In this case is not physical strength, it is according to mental.[r]which have the courage to stand up face to those stronger than yourself?
 [k]
 
-＠アルトリア
-聖剣はその心の強さを計ります。[r]ですので[line 3]
+＠Aturia
+Sword will estimate the strength of the heart。[r]Beaacause it is[line 3]
 [k]
 
 [charaFace D 2]
@@ -168,8 +168,8 @@ Will the things such as dress code?
 [charaFadeout D 0.1]
 [charaFadeout A 0.1]
 [communicationCharaLoop 98003003 1 5 0 2]
-＠Dr.ロマン
-な、なんだこの魔力量……!?[r]セイバー、君、何をしている!?
+＠Dr.Roman
+What、What the hell it is magic amount……!?[r]Saber, what does you done!?
 [k]
 
 [communicationCharaClear]
@@ -179,26 +179,26 @@ Will the things such as dress code?
 [charaFadein A 0.1 2]
 [charaFace D 0]
 [charaFadein D 0.1 0]
-＠アルトリア
-過去に私が斬り伏せ、[r]封印した悪魔を召喚しているのですが、何か。
+＠Aturia
+i was ruin the past、[r]summoned a sealed devil, somethings problem?
 [k]
 
-？1：まさか！？
+？1：Could it be that！？
 
-？2：ばかな！？
+？2：Impossible！？
 
 ？！
 
 [charaFace A 15]
-＠マシュ
-竜種に匹敵する魔力数値です……！[r]こんなの、今の先輩とわたしでは、とても……！
+＠Mashu
+The magic data even can comparable to dragon species……！[r]this, even though senior and me,it very……！
 [k]
 
 [charaFadeout D 0.1]
 [charaFadeout A 0.1]
 [communicationCharaLoop 98003003 1 5 0 2]
-＠Dr.ロマン
-なんで何の相談もなしにそういう事するかなあ!?[r]そもそもアーサー王にそんな魔術は使えないぞ!?
+＠Dr.Roman
+why without any discussion to do this kind of thing!?[r]by the way King Arthur unable to use such magic!?
 [k]
 
 [communicationCharaClear]
@@ -208,15 +208,15 @@ Will the things such as dress code?
 [charaFadein A 0.1 2]
 [charaFace D 1]
 [charaFadein D 0.1 0]
-＠アルトリア
-そこはそれ、レオナルド女史に相談をして[r][#使い切り:インスタント][#魔術書:スクロール]を用意してもらいました。
+＠Aturia
+There already discuss with Ms.Leonardo [r][# One-time use: instant:][#Grimms note:scroll]that we had prepared。
 [k]
 
 [charaFadeout D 0.1]
 [charaFadeout A 0.1]
 [communicationCharaLoop 98003003 1 5 0 2]
-＠Dr.ロマン
-ダ・ヴィンチちゃーーーん！
+＠Dr.Roman
+Little---Da Vinci！
 [k]
 
 [bgmStop BGM_EVENT_2 0.4]
@@ -233,24 +233,24 @@ Will the things such as dress code?
 [charaFadein A 0.1 2]
 [charaFace D 2]
 [charaFadein D 0.1 0]
-＠アルトリア
-さあ、勇気を示す時ですマスター！[r]私たちでこのピンチを切り抜けましょう！
+＠Aturia
+Come on、It is the time to how courage master！[r]Let us through beyond the crisis！
 [k]
 
 [charaFace A 14]
-＠マシュ
-お、王様はわりと無茶苦茶な人でしたー！[r]せせ、先輩、どうしましょう!?
+＠Mashu
+king is quite unreasonable！[r]sese、senior、what should we do!?
 [k]
 
-？1：こうなったら戦うしかないな！
+？1：In this case only fight for it！
 
-？2：よーし、かかってこい！
+？2：Alright、bring it on！
 
 ？！
 
 [charaFace A 14]
-＠マシュ
-なんという事でしょう……[r]わたしのマスターも、セイバーさんと同じ人種でした！
+＠Mashu
+How could be that……[r]Even though my master and saber is also same type of people！
 [k]
 
 [messageOff]
