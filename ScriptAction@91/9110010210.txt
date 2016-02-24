@@ -30,7 +30,7 @@ no people nearby,there is no building.[r]Even now what happened there will not b
 [charaFace A 12]
 [charaFadein A 0.1 2]
 ＠Mashu
-……escuse me ,senior……Arturiaのspeech was[r]unstable、what going on this time……？
+……escuse me ,senpai……Arturia's speech was[r]unstable、what going on this time……？
 [k]
 
 ？1：i had no idea……
@@ -191,7 +191,7 @@ i was ruin the past、[r]summoned a sealed devil, somethings problem?
 
 [charaFace A 15]
 ＠Mashu
-The magic data even can comparable to dragon species……！[r]this, even though senior and me,it very……！
+The magic data even can comparable to dragon species……！[r]this, even though senpai and me,it very……！
 [k]
 
 [charaFadeout D 0.1]
@@ -239,7 +239,7 @@ Come on、It is the time to how courage master！[r]Let us through beyond the cr
 
 [charaFace A 14]
 ＠Mashu
-king is quite unreasonable！[r]sese、senior、what should we do!?
+king is quite unreasonable！[r]sese、senpai、what should we do!?
 [k]
 
 ？1：In this case only fight for it！
@@ -250,7 +250,7 @@ king is quite unreasonable！[r]sese、senior、what should we do!?
 
 [charaFace A 14]
 ＠Mashu
-How could be that……[r]Even though my master and saber is also same type of people！
+How could be that……[r]Even though my master and saber-chan is also same type of people！
 [k]
 
 [messageOff]
